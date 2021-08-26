@@ -1,0 +1,8 @@
+src/clientversion.cpp export-subst
+
+*.m4 eol=lf
+*.ac eol=lf
+*.am eol=lf
+*.guess eol=lf
+*.sub eol=lf
+*.sh eol=lf
